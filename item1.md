@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Item 1
-menu: Custom Menu Text
+menu: Item 1
 parent: xpctargetstuff.md
 weight: 0
 ---

@@ -19,7 +19,7 @@ description: Website for collecting information about lab robots
 baseurl: "/armlab_inventory" # the subpath of your site, e.g. /blog
 url: "https://armlab-clemson.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 highlight: rouge
-copyright: Adhiti Raman
+copyright: ARMLAB@Clemson
 # Build settings
 markdown: kramdown
 plugins:
