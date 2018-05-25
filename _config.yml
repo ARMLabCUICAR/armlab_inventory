@@ -16,8 +16,8 @@
 title: Inventory
 email: adhitir@clemson.edu
 description: Website for collecting information about lab robots
-baseurl: "/jekyll-materialdocs" # the subpath of your site, e.g. /blog
-url: "https://github.com/armlab-clemson.github.io/armlab_inventory" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/armlab_inventory" # the subpath of your site, e.g. /blog
+url: "https://github.com/armlab-clemson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 highlight: rouge
 copyright: Adhiti Raman
 # Build settings
