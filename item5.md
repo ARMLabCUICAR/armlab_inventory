@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Custom Colors
-parent: features.md
-weight: 5
+title: Item 5
+parent: xpctargetstuff.md
+weight: 4
 mdl_colors: deep_orange-blue
 ---
 

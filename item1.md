@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Custom Text for Menu Items
+title: Item 1
 menu: Custom Menu Text
-parent: features.md
+parent: xpctargetstuff.md
 weight: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Installing MaterialDocs
-menu: Installing
+title: Robots in the Lab
+menu: Robots
 weight: 3
 ---
 

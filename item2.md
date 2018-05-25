@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Child Pages
-parent: features.md
+title: Item 2
+parent: xpctargetstuff.md
 weight: 1
 ---
 

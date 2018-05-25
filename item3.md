@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Code Highlighting
-parent: features.md
+title: Item 3
+parent: xpctargetstuff.md
 weight: 2
 ---
 

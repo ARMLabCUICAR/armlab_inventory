@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Weighted Menu Items
-parent: features.md
+title: Item 4
+parent: xpctargetstuff.md
 weight: 3
 ---
 
