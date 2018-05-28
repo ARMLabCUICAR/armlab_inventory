@@ -9,6 +9,7 @@ weight: 2
 <p align="center">
 <img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/PPM-CARDBUS-1-1000x1000.jpg?raw=true" width="600px" >
 </p>
+
 ### Description
 
 WinSystems’ PPM-Cardbus is a PC/104-Plus module that supports both Cardbus and PC cards. Its purpose is allow expansion of additional functions such as 802.11 wireless, IEEE-1394 Firewire, USB 2.0, SCSI, and other high-performance functions that have been developed for mobile computing environments. Cardbus supports 32-bit PC Cards operating at bus speeds up to 33MHz.
