@@ -6,6 +6,9 @@ parent: xpctargetstuff.md
 weight: 3
 ---
 
+<p align="center">
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/PPM-CARDBUS-1-1000x1000.jpg?raw=true" width="600px" >
+</p>
 
 ### FEATURES
 
