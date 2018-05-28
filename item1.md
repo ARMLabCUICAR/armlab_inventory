@@ -6,6 +6,10 @@ parent: xpctargetstuff.md
 weight: 0
 ---
 
+<p align="center">
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/gps140hr.jpg?raw=true" width="600px" >
+</p>
+
 ### FEATURES
 
 * A PC/104-based GPS satellite receiver
