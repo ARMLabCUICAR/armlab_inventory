@@ -6,7 +6,7 @@ parent: xpctargetstuff.md
 weight: 2
 ---
 
-![PPMCardBUS](hhttps://www.winsystems.com/wp-content/uploads/2015/01/PPM-CARDBUS-1-1000x1000.jpg)
+![PPMCardBUS](https://armlab-clemson.github.com/armlab_inventory/images/PPM-CARDBUS-1-1000x1000.jpg)
 
 
 ### Description
