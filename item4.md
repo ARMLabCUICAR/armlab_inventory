@@ -7,7 +7,8 @@ weight: 3
 ---
 
 
-FEATURES
+###FEATURES
+
 -A PC/104-based motion control and motor interface board
 
 -2-channel ultra compact DC servo motor control
