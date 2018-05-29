@@ -6,6 +6,8 @@ parent: xpctargetstuff.md
 weight: 6
 ---
 
+## Diamond-MM Analog I/O Module
+
 [12-bit Analog I/O PC/104 Module](http://www.diamondsystems.com/products/diamondmm#aor)
 
 <p align="center">
