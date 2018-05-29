@@ -6,8 +6,8 @@ parent: xpctargetstuff.md
 weight: 7
 ---
 # GPIO-MM Digital I/O Module
-### Reconfigurable 48-line Digital I/O + Counter/Timer PC/104 Module
-### GIPO-MM-XT Rev C, 10 Ctr/Timers, 40DIO
+#### Reconfigurable 48-line Digital I/O + Counter/Timer PC/104 Module
+#### GIPO-MM-XT Rev C, 10 Ctr/Timers, 40DIO
 
 [GPIO-MM Digital I/O Module](http://www.diamondsystems.com/products/gpiomm)
 
