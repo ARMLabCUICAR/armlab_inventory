@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Item 2
+title: WinSystems PCM NE2000 16 Bit
+menu: PCM NE2000
 parent: xpctargetstuff.md
 weight: 1
 ---
 
-This page is a child page of [Features](/jekyll-materialdocs/features).  It has the ```parent``` value set in the YAML front matter, like this:
+It is a 16-BIT, ETHERNET LAN MODULE. Not recommended for new designs.
 
-```yaml
-parent: features.md
-```
+[Datasheet](https://www.winsystems.com/wp-content/uploads/datasheets/pcm-ne2000-ds.pdf)

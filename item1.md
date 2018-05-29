@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Item 1
-menu: Item 1
+title: GPS140HR
+menu: GPS140HR
 parent: xpctargetstuff.md
 weight: 0
 ---
 
-This page's menu item has different text from the page title.  That's because it has the ```menu``` value set in the YAML Front Matter like this:
+<p align="center">
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/gps140hr.jpg?raw=true" width="600px" >
+</p>
 
-```yaml
-menu: Custom Menu Text
-```
+### FEATURES
 
-Pages can also be [hidden from the menu](/jekyll-materialdocs/hidden-page).
+* A PC/104-based GPS satellite receiver
+* 40C to 85C operating temperature
+* NMEA-0183-compatible GPS positioning board with 12-parallel-channel satellite receiver and differential GPS support
+* Direct interface through onboard 16C550 UART channel
+* Optional active antenna
+
+[User Document](https://www.rtd.com/NEW_manuals/hardware/utilitymodules/GPS140.pdf)

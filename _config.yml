@@ -21,7 +21,7 @@ url: "https://armlab-clemson.github.io/" # the base hostname & protocol for your
 highlight: rouge
 copyright: ARMLAB@Clemson
 # Build settings
-markdown: kramdown
+markdown: GFM
 plugins:
   - jekyll-remote-theme
 remote_theme: chromatical/jekyll-materialdocs
