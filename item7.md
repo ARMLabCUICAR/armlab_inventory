@@ -9,7 +9,7 @@ weight: 6
 [12-bit Analog I/O PC/104 Module](http://www.diamondsystems.com/products/diamondmm#aor)
 
 <p align="center">
-<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/Diamond-MM Analog I/O Module.PNG?raw=true" width="600px" >
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/Diamond-MM Analog IO Module.PNG?raw=true" width="600px" >
 </p>
 
 
