@@ -21,4 +21,8 @@ Auto calibration applies to the 4 D/A channels as well. The full-scale D/A range
 ## Analog Inputs
 **Enhanced Analog Input Configuration**
 Virtually all other A/D boards require you to set all input channels in one mode, either single-ended or differential. Diamond-MM-32 provides split configuration capability, with more total input channels than any other PC/104 analog I/O board. The board can be user-configured in any of three ways:
+Channels	Format
+32	32 single-ended
+24	8 differential, 16 single-ended
+16	16 differential
 [More Info and Product Manual](http://www.diamondsystems.com/products/diamondmm32at)
