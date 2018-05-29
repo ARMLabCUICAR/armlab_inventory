@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-layout: page title: DM5605 menu: DM5605 parent: xpctargetstuff.md weight: 4
-# DM5605
-![DM5605](https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/DM6505.jpeg?raw=true)
-## Description
-=======
-
 ---
 layout: page
 title: DM5605
@@ -14,8 +7,13 @@ weight: 4
 ---
 
 
+# DM5605
 
->>>>>>> 5b0ae6f245b54c79c494f7b72bdd9aa860f60f4a
+<p align="center">
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/DM6505.jpeg?raw=true" width="600px" >
+</p>
+
+## Description
 The DM5604 dataModule analog output board turns your IBM PC-compatible cpuModule or other PC/104
 computer into a high-performance testing and control system. Ultra-compact for embedded and portable applications,
 the DM5604 features:
@@ -30,12 +28,9 @@ BASIC and Turbo C source code; diagnostics program
 ## Digital-Analog Conversion
 The digital-to-analog (D/A) circuitry features two 12-bit converter channels in each AD7237 D/A converter IC for a total of eight output channels. The two channels in each AD7237 are internally double buffered and all channels are simultaneously updated by issuing a single command. Each channel can be jumped to one of four output voltage ranges, ±5, ±10, 0 to +5, or 0 to +10 volts
 
-<<<<<<< HEAD
+
 ## Installation Guide
 
-=======
-# Installation
->>>>>>> 5b0ae6f245b54c79c494f7b72bdd9aa860f60f4a
 Before installing the module in your system, check the jumper and switch settings.
 The DM5604 comes with a stack through P1 connector. The stack through connector lets you stack another board
 on top of your DM5604, plugging it into the data bus through the pins on the non-component side of the board.
