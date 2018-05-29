@@ -7,7 +7,7 @@ weight: 3
 ---
 
 <p align="center">
-<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/ESC629.png?raw=true" width="600px" >
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/ESC629.PNG?raw=true" width="600px" >
 </p>
 
 ### FEATURES
