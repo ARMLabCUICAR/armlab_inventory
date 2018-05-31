@@ -24,7 +24,7 @@ The DM6814/DM5814 incremental encoder dataModule turns your IBM PC-compatible cp
 Depending on your specifications when ordering your DM6814/DM5814, your module will have up to three incremental encoder circuits. Each of these circuits has one 16-bit up/down counter for incremental encoding applications such as position encoding and velocity detection, and eight digital I/O lines available for control functions. Six lines are input only, and two are input/output. An 8254 programmable interval timer provides three 16-bit, 8 MHz timer/counters to support a wide range of user timing and counting functions.
 
 
-## installation Guide
+## Installation Guide
 
 Keep the module in its antistatic bag until you are ready to install it in your cpuModule or other PC/104 based system. When removing it from the bag, hold the module at the edges and do not touch the components or connectors.
 Before installing the module in your system, check the jumper and switch settings. Chapter 1 reviews the factory settings and how to change them. If you need to change any settings, refer to the appropriate instructions in Chapter 1. Note that incompatible jumper settings can result in unpredictable module operation and erratic response.
