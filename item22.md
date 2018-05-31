@@ -10,7 +10,7 @@ weight: 19
 [User manual](https://globedrop.com/wiki/_media/products:sv203_v.1.20_webmanual.pdf)
 
 <p align="center">
-<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/SV203.jpg?raw=true" width="600px" >
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/SV203.JPG?raw=true" width="600px" >
 </p>
 
 ## Description
