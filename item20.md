@@ -10,7 +10,7 @@ weight: 2
 [PAK-Vb PWM user manual](https://www.awce.com/pak5c.pdf)
 
 <p align="center">
-<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/PAKVb?raw=true" width="600px" >
+<img src="https://github.com/armlab-clemson/armlab_inventory/blob/gh-pages/images/PAKVb.jpg?raw=true" width="600px" >
 </p>
 
 ## Description
