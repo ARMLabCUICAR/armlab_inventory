@@ -3,7 +3,7 @@ layout: page
 title: MEMSIC accelerometer
 menu: MEMSIC accelerometer
 parent: Sensors.md
-weight: 2
+weight: 4
 ---
 # MEMSIC accelerometer
 
