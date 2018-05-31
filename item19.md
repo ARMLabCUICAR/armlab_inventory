@@ -2,7 +2,7 @@
 layout: page
 title: IR Buddy Demo Kit (#28016)
 menu: IR Buddy Demo Kit
-parent: Sensors.md
+parent: sensors.md
 weight: 3
 ---
 # IR Buddy Demo Kit (#28016)
