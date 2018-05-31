@@ -14,16 +14,14 @@ weight: 4
 </p>
 
 ## Description
-The DM5604 dataModule analog output board turns your IBM PC-compatible cpuModule or other PC/104
-computer into a high-performance testing and control system. Ultra-compact for embedded and portable applications,
-the DM5604 features:
-Eight fast-settling 12-bit analog output channels,
-±5, ±10, 0 to +5, or 0 to +10 volt analog output range,
-Simultaneous updating of all output channels,
-24 TTL/CMOS 8255 based programmable digital I/O lines,
-Software enabled interrupts IRQ2-IRQ7, IRQ9-IRQ15 (DM6604)
-+5 volt only operation, 2.35W power consumption,
-BASIC and Turbo C source code; diagnostics program
+The DM5604 dataModule analog output board turns your IBM PC-compatible cpuModule or other PC/104 computer into a high-performance testing and control system. Ultra-compact for embedded and portable applications, the DM5604 features:
+1. Eight fast-settling 12-bit analog output channels,
+2. ±5, ±10, 0 to +5, or 0 to +10 volt analog output range,
+3. Simultaneous updating of all output channels,
+4. 24 TTL/CMOS 8255 based programmable digital I/O lines,
+5. Software enabled interrupts IRQ2-IRQ7, IRQ9-IRQ15 (DM6604)
+6. +5 volt only operation, 2.35W power consumption,
+7. BASIC and Turbo C source code; diagnostics program
 
 ## Digital-Analog Conversion
 The digital-to-analog (D/A) circuitry features two 12-bit converter channels in each AD7237 D/A converter IC for a total of eight output channels. The two channels in each AD7237 are internally double buffered and all channels are simultaneously updated by issuing a single command. Each channel can be jumped to one of four output voltage ranges, ±5, ±10, 0 to +5, or 0 to +10 volts
