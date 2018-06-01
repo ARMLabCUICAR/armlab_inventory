@@ -1,11 +1,11 @@
 ---
 layout: page
-title: MEMSIC accelerometer
-menu: MEMSIC accelerometer
+title: PAK-Vb PWM Coprocessor
+menu: PAK-Vb PWM Coprocessor
 parent: sensors.md
 weight: 4
 ---
-# MEMSIC accelerometer
+# PAK-Vb PWM Coprocessor
 
 [PAK-Vb PWM user manual](https://www.awce.com/pak5c.pdf)
 
@@ -27,6 +27,3 @@ The PAK Vb can generate 8 channels of PWM at one time using one of two methods, 
 * The PAK-Vc can share a single pin with 31 other PAK-Vc chips (a total of 32 chips and 256 outputs).
 
 
-
-
-[Data Sheet](https://www.parallax.com/sites/default/files/downloads/28017-Memsic-MXD2125-Datasheet.pdf)
